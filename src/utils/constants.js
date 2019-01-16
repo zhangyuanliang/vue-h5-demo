@@ -1,4 +1,3 @@
-export const BASE_URL = 'http://wxtest.ilinjia.cn'
 // export const BASE_URL = 'http://172.31.98.82:9088'
 // export const BASE_URL = 'http://172.31.98.150:9088'
 
@@ -15,3 +14,5 @@ export const statusCodeMap = {
   500: '服务器错误',
   503: '服务器错误'
 }
+
+export const test_token = 'eyJhbGciOiJIUzUxMiJ9.eyJzZW5kX3RpbWUiOjE1NDU2NDI4NTgzNjEsInVzZXJfaWQiOjI4LCJ1c2VyX3Bob25lIjoiMTg2Mjg1Mjc4OTQifQ.Dp1kzrRUjdcELBMVHIYgzXFch40gc6kshuvtlNk5j82vzCdfJ3Qz1wqYummo5_WU52O2NpAoO0cbsoeM4zpDOw'
